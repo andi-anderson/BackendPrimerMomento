@@ -1,5 +1,5 @@
 package com.example.BackendPrimerMomento.modelos;
-
+//texto para modificaciones//
 public class Curso {
     private Integer id;
     private String nombre;
